@@ -1,4 +1,4 @@
-# CodePathHelloWorldApp
+#HelloWorldApp
 ### App Description
 This app is a hello world app that allows the user to change text color , the text, and background color.
 
